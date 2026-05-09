@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm an AI/ML graduate with a deep focus on **Large Language Models, Retrieval-Augmented Generation, and applied NLP**. My Master's thesis involved building a full clinical QA system from scratch — fine-tuning LLMs, designing a hybrid RAG pipeline, and rigorously evaluating outputs using multiple methods including LLM-as-a-Judge.
+I'm an AI/ML graduate with a deep focus on **Large Language Models, Retrieval-Augmented Generation, and applied NLP**. My Master's thesis involved building a full clinical QA system from scratch, fine-tuning LLMs, designing a hybrid RAG pipeline, and rigorously evaluating outputs using multiple methods including LLM-as-a-Judge.
 
 I love working at the intersection of **research and real-world impact** , taking complex AI systems from prototype to something that actually works reliably.
 
