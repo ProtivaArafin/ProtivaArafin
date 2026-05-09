@@ -87,5 +87,3 @@ I love working at the intersection of **research and real-world impact** , takin
 
 ---
 
-- ⚡ Fun fact: ...
--->
